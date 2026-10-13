@@ -1,2 +1,0 @@
-# adik
-service en ligne
